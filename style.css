@@ -1247,7 +1247,7 @@ img.arrow {
 .envelope-icon {
     width: 24px;
     height: 34px;
-    line-height:140%
+    object-fit: contain;
 }
 .sub-input {
     background: transparent;
